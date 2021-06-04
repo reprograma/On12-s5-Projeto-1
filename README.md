@@ -82,4 +82,4 @@ Faremos um `Carrinho de Compras`!!! o/
 ##  E contem comigo! 
   Onde vocês me encontram:
   - [Linkedin](https://www.linkedin.com/in/tassilabomfim/)
-  - [Instagram](hhttps://www.instagram.com/tassilabomfim/)
+  - [Instagram](https://www.instagram.com/tassilabomfim/)
