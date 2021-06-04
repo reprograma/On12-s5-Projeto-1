@@ -619,29 +619,3 @@ console.log(numerosSomados) // 16
 MDN: [reduce](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 
 ---
-
-### Spread operator
-
-Podemos "copiar" todas as propriedades existentes dentro de um objeto e repassá-los para num novo objeto:
-
-```js
-const obj1 = {
-  nome: 'bola',
-  tipo: 'plástico',
-  peso: 1,
-}
-
-const obj2 = { ...obj1 }
-
-const obj3 = {
-  ...obj1,
-  cor: 'amarela'
-}
-
-console.log(obj2) // { nome: 'bola', tipo: 'plástico', peso: 1 }
-
-console.log(obj3) // { nome: 'bola', tipo: 'plástico', peso: 1, cor: 'amarela' }
-```
-
-
-Fonte MDN: [spread operator](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Spread_syntax)

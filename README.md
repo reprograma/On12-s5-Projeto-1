@@ -26,14 +26,13 @@ Vamos revisar:
 1. `Variáveis`
 2. `String X Template string`
 3. `Function X Arrow function`
-4. `Função Callbac]`
+4. `Função Callbac`
 5. `Conditional if...else X Ternary operator`
 6. `Objetos`
 7. `Datas`
 8. `Classes`
 9. `Arrays`
 10. `Métodos de iteração`
-11. `Spread operator`
 
 ---
 
